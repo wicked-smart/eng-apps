@@ -1,0 +1,5 @@
+* I like to mostly hack around problems i encounter myself during coding. Let's say i heard about this cool thing in CI/CD called Github Actions, using which setting developement envs, testing, workflows can be automated for better use-case. I would learn inside-out of this new thing , think creatively about new scenarios in which github actions can be used and would code it up. Also, i would always keep in mind to see if my automation/code actually made any efficiency gains or not a.k.a measuring the impact of my code
+* Recently, i wrote a github actions script to get website name as a "issue-comment" , parse it for being in valid format, then check, whether site contained Javascript or not. Building sort of "No JS CLUB"
+* Learn about inner workings of VC industry, get a chance to work on different bot features making the workflow more efficient and effective, maybe come up with some kickss idea of my own to work upon
+* Good Problem solving mind, obsession with making processes and workflows more effective and efficient
+* Goofiness ;-)
